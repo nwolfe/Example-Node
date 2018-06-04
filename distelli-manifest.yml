@@ -1,4 +1,4 @@
-samheutmaker1/Example-Node:
+nwolfe/Example-Node:
   # Distelli Manifest example
   # this example assumes the build and deploy servers are:
   # Ubuntu 14.04 
@@ -35,7 +35,7 @@ samheutmaker1/Example-Node:
 
   PostInstall:
     - echo "Begin PostInstall"
-    - echo "alsdfjadslkfjadsklfjaklsdfjasldkfjadslkfjasdlkfjaksdlfjalsdkfjkdsfjkdfjkdjfkdjfkdjfladkjfaldskfjadsalsdfjadslkfjadsklfjaklsdfjasldkfjadslkfjasdlkfjaksdlfjalsdkfjkdsfjkdfjkdjfkdjfkdjfladkjfaldskfjadsalsdfjadslkfjadsklfjaklsdfjasldkfjadslkfjasdlkfjaksdlfjalsdkfjkdsfjkdfjkdjfkdjfkdjfladkjfaldskfjadsalsdfjadslkfjadsklfjaklsdfjasldkfjadslkfjasdlkfjaksdlfjalsdkfjkdsfjkdfjkdjfkdjfkdjfladkjfaldskfjadsalsdfjadslkfjadsklfjaklsdfjasldkfjadslkfjasdlkfjaksdlfjalsdkfjkdsfjkdfjkdjfkdjfkdjfladkjfaldskfjads"
+    - echo "Hey Nate! Is it working?"
     - npm install
 
   Env:
