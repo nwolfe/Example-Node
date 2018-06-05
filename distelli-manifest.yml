@@ -36,7 +36,7 @@ nwolfe/Example-Node:
 
   PostInstall:
     - echo "Begin PostInstall"
-    - echo "Hey Nate! Is it working?"
+    - echo "Did Nate's deploy work?"
     - npm install
 
   Env:
