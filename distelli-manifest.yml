@@ -32,7 +32,7 @@ nwolfe/Example-Node:
     - echo "-Installing nodejs-"
     - sudo apt-get -y install nodejs
     - echo "-Installing npm-"
-    - sudo apt-get -y install npm
+    # - sudo apt-get -y install npm
 
   PostInstall:
     - echo "---Begin PostInstall---"
