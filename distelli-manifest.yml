@@ -35,9 +35,9 @@ nwolfe/Example-Node:
     - sudo apt-get -y install npm
 
   PostInstall:
-    - echo "Begin PostInstall"
-    - echo "Did Nate's deploy work?"
+    - echo "---Begin PostInstall---"
     - npm install
+    - echo "---End PostInstall---"
 
   Env:
     - PORT: "3000"
